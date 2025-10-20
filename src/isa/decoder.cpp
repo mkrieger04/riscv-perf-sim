@@ -10,7 +10,7 @@
  * Last Updated: 10/20/2025
  */
 
-#include "instruction.hpp"
+#include "decoder.hpp"
 #include <bitset>
 #include <iostream>
 
